@@ -1,10 +1,10 @@
 # Code of Conduct
 
 ## Do unto others as you would have them do unto you.
-Don't be evil. Be nice; don't be excessively unkind. If you must, condemn the behaviour, not the person. *"You are an idiot"* is unacceptably mean and personal, *"Your pull request is stupid because X reason"*, while impolite, may be necessary to get the message across. 
+Be nice; don't be excessively unkind. Don't be evil. If you must, condemn the behaviour, not the person. *"You are an idiot"* is unacceptably mean and personal, *"Your pull request is stupid because X reason"*, while impolite, may be necessary to get the message across. 
 
 ## Don't get offended 
-It's the internet. A bit of trolling, cursing and short-tempered caffeine-fuelled moody development is expected. One is free to say what one wants; we are not Thought Police and don't care about political correctness. (though going out of one's way to be offensive won't get desired results)
+It's the internet. A bit of trolling, cursing and short-tempered caffeine-fuelled moody development is expected. One is free to say what one wants; we are not Thought Police and don't care about political correctness, only about getting the job done. If someone says mean words to you, GROW UP. Remember, though, going out of one's way to be offensive won't get desired results.
 
 ## Be intelligent. 
 Put in some thought before commenting; "eta wen?" or "this is brken, pls fixx" is discouraged.
@@ -14,3 +14,6 @@ My work deals frequently with piracy, breaking licenses and stuff that is legall
 
 ## Stay on topic
 Keep discussion around pull requests and issues relevant to the initial topic. Don't hijack others' issues.
+
+## Write with style
+Programming is boring. Funny, relevant commit messages are good. Except for internationalisation (i18n), programming and comments should be English, preferably British spellings and SI/metric measurements. Masculine pronouns only, for conciseness, elegance and consistency with Latin languages. That said, if you want to show off your flair for stylish writing and multilingual skills, go for it! Style and skill take precedence.
