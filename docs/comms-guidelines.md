@@ -22,11 +22,11 @@ Those without prior contributions (i.e. Joe Public, Rando Cardassian) will not h
 
 ## Violating the Code of Conduct
 
-Our [CODE OF CONDUCT](CODE_OF_CONDUCT.md) lays a baseline for contributor behaviour, and is very lenient. Don't take advantage of this leniency. Maintainers have a role similar to moderators from bulletin-board forums.
+Our [CODE OF CONDUCT](/CODE_OF_CONDUCT.md) lays a baseline for contributor behaviour, and is very lenient. Don't take advantage of this leniency. Maintainers have a role similar to moderators from bulletin-board forums.
 
 - Violations will be logged in an internal blacklist.
 - Comments may be censored by moderators
-- **1st strike**, if not critical, will be attributed to ignorance and warned. If critical, counts as a 2nd strike. 
+- **1st strike**, if not critical, will be attributed to ignorance and warned. If critical, counts as a **2nd strike**. 
 - **2nd strike** will be warned and may be [banned] from participation in the immediate project.
 - **3rd strike** will be [banned] from participation in all projects, and external contact or spam will be [reported to GitHub]
 
